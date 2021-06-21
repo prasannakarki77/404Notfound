@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/prasannakarki77/404Notfound">
+    <a href="https://devchallenges.io/solutions/HTMSazvC3x6bYRyh4vq2">
       Solution
     </a>
     <span> | </span>
@@ -35,7 +35,8 @@
 
 ## Overview
 
-<img src="./webpage.png" alt="screenshot">
+![screenshot](images/screenshot1.png)
+![screenshot](images/screenshot2.png)
 
 ### Built With
 
@@ -52,5 +53,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [404NOTFOUNDcom](https://gracious-elion-a2435d.netlify.app/)
+- Website [prasannakarki77-website.com](https://compassionate-lichterman-26c523.netlify.app/)
 - GitHub [@prasannakarki77](https://github.com/prasannakarki77)
+- Twitter [@PrkKarkee-twitter](https://twitter.com/PrkKarkee)
